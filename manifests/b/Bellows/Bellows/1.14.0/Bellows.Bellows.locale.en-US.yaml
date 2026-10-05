@@ -13,7 +13,7 @@ License: Freeware
 LicenseUrl: https://bellowsai.app/legal/terms
 ShortDescription: A desktop workspace for coding agents, with team policy and an audit trail.
 Description: |-
-  Bellows runs Claude Code, Codex, Gemini CLI, any agent that speaks the Agent Client Protocol, or a local model, in one desktop workspace.
+  Bellows runs Codex, Gemini CLI, Claude, any agent that speaks the Agent Client Protocol, or a local model, side by side in one desktop workspace.
   Every permission prompt shows the exact change; decisions land in a hash-linked audit trail; sessions can be shared live with a colleague.
   The desktop app is free. Agent provider usage is billed separately by the provider.
 Moniker: bellows
